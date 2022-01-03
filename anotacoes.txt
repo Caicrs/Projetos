@@ -5,4 +5,8 @@ Tracklist: https://1001.tl/1t2b93f9
 -
 -
 -
-- Alteração 1
+- 
+$ git add . = adiciona alteração/mudanças
+$ git status = mostra o status 
+$ git commit -m " ( texto ) " = adiciona descrição 
+$ git push = manda todas alterações pro servidor
